@@ -1,0 +1,34 @@
+@charset "UTF-8";
+    /*
+    em HTML é id em css é #
+    em HTML é class em css é .
+    */
+
+
+
+    body{
+        background-color: #BAE8A2;
+        color: black;
+    }
+    h1{
+        color: #495C40;
+    }
+    h2{
+        color: #66805a;
+
+        
+    }
+    h1#principal{
+        color: white;
+        text-align: center;
+        background-color: #495C40;
+    }
+    h2.basico{
+        background-color: #495c40;
+        color: white;
+        width: 50%;
+        box-shadow: 10px 10px 10px #8eb17c88;
+        border-radius: 5px;
+        
+        padding: 5px;
+    }
