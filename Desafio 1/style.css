@@ -74,7 +74,6 @@ nav{
 nav a{
     font-family: var(--fonte-destaque);
     font-weight: bold;
-    padding: 10px;
     margin-top: 20px;
     text-decoration: none;
     color: var(--cor1);
